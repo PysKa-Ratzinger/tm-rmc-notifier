@@ -1,0 +1,15 @@
+
+# Python VENV
+venv/
+__pycache__/
+
+# Persistence files
+config
+db.db
+
+# Logs
+log.log*
+
+# Backups
+*.bck
+
